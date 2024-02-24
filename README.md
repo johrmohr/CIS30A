@@ -1,4 +1,2 @@
-# CIS30A
-CIS30A Python Course Project
-
-This repository is for my CIS30A Python class, and it will contain my course project.
+# Tutorial Selections Services
+A  program to place appointments for tutorial services in Python for practice
